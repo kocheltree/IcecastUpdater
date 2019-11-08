@@ -13,10 +13,6 @@
 #
 # Hope you enjoy!
 #
-# k@distorted.io
-# superuser
-# http://distorted.io/
-#
 #######################################################################
 
 # What directory is your web site in?
