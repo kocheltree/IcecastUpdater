@@ -22,10 +22,10 @@ WebsiteDirectory='/var/www/html'
 WebsiteFilename='radio.html'
 
 # What is the line number for the title?
-TitleLineNumber=5s
+TitleLineNumber=7s
 
 # What is the line number for the number of listeners?
-ListenersLineNumber=6s
+ListenersLineNumber=8s
 
 #######################################################################
 # You should not have to edit below this line.
