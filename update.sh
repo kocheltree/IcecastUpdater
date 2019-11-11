@@ -16,16 +16,16 @@
 #######################################################################
 
 # What directory is your web site in?
-WebsiteDirectory='/var/sentora/hostdata/zadmin/public_html/distorted_io'
+WebsiteDirectory='/var/www/html'
 
 # What is the name of the HTML file to update?
 WebsiteFilename='radio.html'
 
 # What is the line number for the title?
-TitleLineNumber=89s
+TitleLineNumber=5s
 
 # What is the line number for the number of listeners?
-ListenersLineNumber=92s
+ListenersLineNumber=6s
 
 #######################################################################
 # You should not have to edit below this line.
