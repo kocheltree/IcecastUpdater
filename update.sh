@@ -11,8 +11,6 @@
 # pip install json
 # pip install urllib2
 #
-# Hope you enjoy!
-#
 #######################################################################
 
 # What directory is your web site in?
